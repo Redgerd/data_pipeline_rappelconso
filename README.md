@@ -1,7 +1,7 @@
 # Building a simple End-to-End Data Engineering System 
 This project uses different tools such as kafka, airflow, spark, postgres and docker. 
 
-A step by step guide to run this pipeline: https://medium.com/@hamzagharbi_19502/end-to-end-data-engineering-system-on-real-data-with-kafka-spark-airflow-postgres-and-docker-a70e18df4090
+![alt text](img/overview%20.png)
 
 ## Overview
 
@@ -13,5 +13,4 @@ A step by step guide to run this pipeline: https://medium.com/@hamzagharbi_19502
 
 All of these tools will be built and run using docker, and more specifically docker-compose.
 
-![chatuml-diagram](https://github.com/HamzaG737/data-engineering-project/assets/71135893/ce92b731-038a-4d9c-9722-f97a6ba51153)
 
